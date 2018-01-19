@@ -1,0 +1,4 @@
+# coding=utf-8
+
+COOKIE="QdQN_2132_saltkey=D8uZ57bg; QdQN_2132_lastvisit=1514428740; pgv_pvi=2080563200; pgv_si=s1396686848; QdQN_2132_sid=cz5IRI; QdQN_2132_st_t=0%7C1516332250%7C93ff1a2e0f9899cc800f680398f861cf; QdQN_2132_forum_lastvisit=D_38_1516332250; QdQN_2132_visitedfid=38; QdQN_2132_seccode=23.af15c69da6de585a21; QdQN_2132_ulastactivity=dffc4ZI9Fd3sTqBfHIYUFtBsiMEh9SdwEgi%2FYQ%2BT3rd56sBrEmju; QdQN_2132_auth=cbf3gSW9YP%2BhtMN6byPM71BSClE0DaiB5btHTnPk6KWZqMn%2BlTTrSyfqJ3JGd8zoi1%2BgQJ1mkbkCQdPVXzFu; QdQN_2132_nofavfid=1; QdQN_2132_home_diymode=1; QdQN_2132_checkpm=1; QdQN_2132_sendmail=1; QdQN_2132_noticeTitle=1; QdQN_2132_lastact=1516334274%09misc.php%09patch"
+URL="http://www.7wawa.com/home.php?mod=space&uid=1&do=profile"
